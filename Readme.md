@@ -1,9 +1,9 @@
 # PLSQL Assignment One / Sunrise Supermarket
 
-**Student Name:** HEKIMA TOGEZE Constant
-**Student ID:** 29136
-**Group:** Group B
-**Database Tool Used:** Oracle SQL
+**Student Name:** HEKIMA TOGEZE Constant  
+**Student ID:** 29136  
+**Group:** Group B  
+**Database Tool Used:** Oracle SQL  
 
 ---
 
